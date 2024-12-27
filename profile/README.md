@@ -1,3 +1,6 @@
+한국어 버전 소개입니다. <br>
+[Click here for English version](./README.md)
+
 ## TripUS ✈️  
 > 쿼카와 함께 여행하고 나만의 여행 기록을 남기는 앱
 
