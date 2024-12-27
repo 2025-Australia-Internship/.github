@@ -1,23 +1,23 @@
-한국어 버전 소개입니다. <br>
-[Click here for English version](./README.md)
+This is the English version description. <br>
+[한국어 버전은 여기예요!](./README-ko.md)
 
 ## TripUS ✈️  
-> 쿼카와 함께 여행하고 나만의 여행 기록을 남기는 앱
+> An app that allows you to travel with Quokka and leave your own travel records
 
-## 기간 ⌚ 
+## Period ⌚ 
 2025.01.01 - 
 
-## 참여자 🤭
-- backend : [윤주영](https://github.com/juyoung07), [장하영](https://github.com/hayeong120)
-- Frontend : [윤주영](https://github.com/juyoung07), [장하영](https://github.com/hayeong120)
-- Designer : 윤서진
+## Participation 🤭
+- backend : [Juyoung Yun](https://github.com/juyoung07), [Hayeong Jang](https://github.com/hayeong120)
+- Frontend : [Juyoung Yun](https://github.com/juyoung07), [Hayeong Jang](https://github.com/hayeong120)
+- Designer : SeoJin Yoon
 
 ## Tech Stack 🔨
 - backend : Nest.js
 - frontend : flutter
 
 ## Tools 
-- visual Studio Code, Figma
+- Visual Studio Code, Figma
 
 <!--
 **Here are some ideas to get you started:**
