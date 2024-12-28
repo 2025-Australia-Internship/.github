@@ -14,10 +14,10 @@ This is the English version description. <br>
 
 ## Tech Stack 🔨
 - backend : Nest.js
-- frontend : flutter
+- frontend : Flutter
 
 ## Tools 
-- Visual Studio Code, Figma
+- Visual Studio Code, Figma, Github
 
 <!--
 **Here are some ideas to get you started:**
