@@ -14,7 +14,7 @@
 
 ## Tech Stack 🔨
 - 백엔드 : Nest.js
-- 프론트 : flutter
+- 프론트 : Flutter
 
 ## Tools 
-- visual Studio Code, Figma
+- Visual Studio Code, Figma, Github
