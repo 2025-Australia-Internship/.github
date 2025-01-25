@@ -2,7 +2,7 @@
 [Click here for English version](./README.md)
 
 ## TripUS ✈️  
-> 쿼카와 함께 여행하고 나만의 여행 기록을 남기는 앱
+> 코알라와 함께 여행하고 나만의 여행 기록을 남기는 앱
 
 ## 기간 ⌚ 
 2025.01.01 ~ 
