@@ -2,7 +2,7 @@ This is the English version description. <br>
 [한국어 버전은 여기예요!](./README-ko.md)
 
 ## TripUS ✈️  
-> An app that allows you to travel with Quokka and leave your own travel records
+> An app that allows you to travel with Koala and leave your own travel records
 
 ## Period ⌚ 
 2025.01.01 - 
