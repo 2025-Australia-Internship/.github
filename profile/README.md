@@ -2,13 +2,13 @@ This is the English version description. <br>
 [한국어 버전은 여기예요!](./README-ko.md)
 
 ## TripUS ✈️  
-> An app that allows you to travel with Koala and leave your own travel records
+> A unique and special travel record app using AI
 
 ## Period ⌚ 
 2025.01.01 - 
 
 ## Participation 🤭
-- backend : [Juyoung Yun](https://github.com/juyoung07), [Hayeong Jang](https://github.com/hayeong120)
+- backend : [Juyoung Yun](https://github.com/juyoung07)
 - Frontend : [Juyoung Yun](https://github.com/juyoung07), [Hayeong Jang](https://github.com/hayeong120)
 - Designer : SeoJin Yoon
 
