@@ -9,7 +9,7 @@ This is the English version description. <br>
 
 ## Participation 🤭
 - backend : [Juyoung Yun](https://github.com/juyoung07)
-- Frontend : [Juyoung Yun](https://github.com/juyoung07), [Hayeong Jang](https://github.com/hayeong120)
+- Frontend : [Hayeong Jang](https://github.com/hayeong120)
 - Designer : SeoJin Yoon
 
 ## Tech Stack 🔨
