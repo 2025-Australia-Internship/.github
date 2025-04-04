@@ -9,11 +9,11 @@
 
 ## 참여자 🤭
 - 백엔드 : [윤주영](https://github.com/juyoung07)
-- 프론트 : [윤주영](https://github.com/juyoung07), [장하영](https://github.com/hayeong120)
+- 프론트 : [장하영](https://github.com/hayeong120)
 - 디자이너 : 윤서진
 
 ## Tech Stack 🔨
-- 백엔드 : Nest.js
+- 백엔드 : Nest.js, MySQL
 - 프론트 : Flutter
 
 ## Tools 
